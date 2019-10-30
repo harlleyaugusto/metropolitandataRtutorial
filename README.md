@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="metropolitan-data-1---r-tutorials">Metropolitan Data 1 - R Tutorials</h1>
 <p>The <strong>Metropolitan Data 1 - R Tutorials</strong> materials and resources of the 2018/2019 Metropolitan Data 1 Course at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a> are listed here.</p>
 <h2 id="table-of-contents----omit-in-toc---">Table of Contents <!-- omit in toc --></h2>
