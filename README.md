@@ -32,7 +32,7 @@
 <p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)<br>
 <img src="https://amzn.to/2WoabjB" alt="R img"></p>
 <h2 id="course-tutorials">Course tutorials</h2>
-<p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve it go for it, and let me know :) ), and R script.</p>
+<p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R script.</p>
 <h3 id="tutorial--1-an-introduction-to-r---part-1">Tutorial  #1: An introduction to R - part 1</h3>
 <p>This tutorial convers:</p>
 <ul>
@@ -45,7 +45,7 @@
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>R Script and RStudio</strong>: code completion, exectuing code, keyboard shortcuts</li>
-<li><strong>Control structures</strong>: *
+<li><strong>Control structures</strong>:
 <ul>
 <li><strong>Conditional exectuion</strong>: <em>if</em> and <em>if-else</em> statements</li>
 <li><strong>Repetitive exectuion</strong>: <em>for</em> loops, <em>repeat</em> and <em>while</em></li>
@@ -53,6 +53,30 @@
 </li>
 <li><strong>User-defined functions</strong>:  summary measures functions, defining a function, argument matching, the … argument</li>
 <li><strong>Loop functions</strong>: <em>lapply()</em>, <em>sapply()</em>, <em>apply()</em></li>
+</ul>
+<p>[pdf], [latex files], [script]</p>
+<h3 id="tutorial--3-data">Tutorial  #3: Data</h3>
+<p>This tutorial convers:</p>
+<ul>
+<li><strong>Packages</strong></li>
+<li><strong>Tibbles</strong></li>
+<li><strong>Data import</strong></li>
+<li><strong>Tidy data</strong>: spreading, gathering, separating, uniting and missing values</li>
+<li><strong>Relational data</strong>:  keys and mutating joins</li>
+</ul>
+<p>[pdf], [latex files], [script]</p>
+<h3 id="tutorial--4-data-visualization">Tutorial  #4: Data Visualization</h3>
+<p>This tutorial convers:</p>
+<ul>
+<li><strong>ggplot2</strong>: aesthetic mappings, facets, geometric objects, position adjustments</li>
+<li><strong>Exploratory data analysis</strong>: variation and covariation</li>
+</ul>
+<p>[pdf], [latex files], [script]</p>
+<h3 id="tutorial--4-data-transformation">Tutorial  #4: Data transformation</h3>
+<p>This tutorial convers:</p>
+<ul>
+<li><strong>Primary functions</strong>: <em>select(), select(), group_by(), summarise(), arrange(), mutate(), mutate()</em></li>
+<li><strong>RStudio project</strong>: RStudio project creation and working directory</li>
 </ul>
 <p>[pdf], [latex files], [script]</p>
 
