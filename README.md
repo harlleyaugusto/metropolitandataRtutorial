@@ -15,6 +15,15 @@
 <li><a href="#required">Required</a></li>
 </ul>
 </li>
+<li><a href="#r-tutorials">R tutorials</a>
+<ul>
+<li><a href="#tutorial-1-an-introduction-to-r---part-1">Tutorial #1: An introduction to R - part 1</a></li>
+<li><a href="#tutorial-2-an-introduction-to-r---part-2">Tutorial #2: An introduction to R - part 2</a></li>
+<li><a href="#tutorial-3-data-manipulation">Tutorial #3: Data manipulation</a></li>
+<li><a href="#tutorial-4-data-visualization">Tutorial #4: Data Visualization</a></li>
+<li><a href="#tutorial-5-data-transformation">Tutorial #5: Data transformation</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="colophon">Colophon</h2>
 <p><strong>Course coordinator:</strong> <a href="https://julian-urbano.info/">Dr. Julián Urbano</a><br>
@@ -31,9 +40,9 @@
 <h3 id="required">Required</h3>
 <p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)<br>
 <img src="https://amzn.to/2WoabjB" alt="R img"></p>
-<h2 id="course-tutorials">Course tutorials</h2>
+<h2 id="r-tutorials">R tutorials</h2>
 <p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R script.</p>
-<h3 id="tutorial--1-an-introduction-to-r---part-1">Tutorial  #1: An introduction to R - part 1</h3>
+<h3 id="tutorial-1-an-introduction-to-r---part-1">Tutorial #1: An introduction to R - part 1</h3>
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>Coding basics</strong>: console, expression, operators, variables, relational operators, logical operators,  basic data types</li>
@@ -41,7 +50,7 @@
 <li><strong>Data types</strong>: vectors, factors, matrices and arrays, list and data frames</li>
 </ul>
 <p>[pdf], [latex files], [script]</p>
-<h3 id="tutorial--2-an-introduction-to-r---part-2">Tutorial  #2: An introduction to R - part 2</h3>
+<h3 id="tutorial-2-an-introduction-to-r---part-2">Tutorial #2: An introduction to R - part 2</h3>
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>R Script and RStudio</strong>: code completion, exectuing code, keyboard shortcuts</li>
@@ -55,7 +64,7 @@
 <li><strong>Loop functions</strong>: <em>lapply()</em>, <em>sapply()</em>, <em>apply()</em></li>
 </ul>
 <p>[pdf], [latex files], [script]</p>
-<h3 id="tutorial--3-data">Tutorial  #3: Data</h3>
+<h3 id="tutorial-3-data-manipulation">Tutorial #3: Data manipulation</h3>
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>Packages</strong></li>
@@ -65,14 +74,14 @@
 <li><strong>Relational data</strong>:  keys and mutating joins</li>
 </ul>
 <p>[pdf], [latex files], [script]</p>
-<h3 id="tutorial--4-data-visualization">Tutorial  #4: Data Visualization</h3>
+<h3 id="tutorial-4-data-visualization">Tutorial #4: Data Visualization</h3>
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>ggplot2</strong>: aesthetic mappings, facets, geometric objects, position adjustments</li>
 <li><strong>Exploratory data analysis</strong>: variation and covariation</li>
 </ul>
 <p>[pdf], [latex files], [script]</p>
-<h3 id="tutorial--4-data-transformation">Tutorial  #4: Data transformation</h3>
+<h3 id="tutorial-5-data-transformation">Tutorial #5: Data transformation</h3>
 <p>This tutorial convers:</p>
 <ul>
 <li><strong>Primary functions</strong>: <em>select(), select(), group_by(), summarise(), arrange(), mutate(), mutate()</em></li>
