@@ -86,5 +86,5 @@
 <li><strong>Primary functions</strong>: <em>select(), select(), group_by(), summarise(), arrange(), mutate(), mutate()</em></li>
 <li><strong>RStudio project</strong>: RStudio project creation and working directory</li>
 </ul>
-<p>[pdf], [latex files], [script]</p>
+<p>[<a href="05.%20Tutorial_Data_Transformation/Tutorial_Data_Transformation.pdf">pdf</a>], [<a href="05.%20Tutorial_Data_Transformation/Tutorial_Data_Transformation.zip">latex files</a>], [<a href="05.%20Tutorial_Data_Transformation/script">script</a>]</p>
 
