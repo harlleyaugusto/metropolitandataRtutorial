@@ -37,8 +37,8 @@
 <strong>Open-source</strong> and commercial RStudio editions can be downloaded <a href="https://rstudio.com/products/rstudio/">here</a>, it is also available for Windows, Mac, and Linux.</p>
 <p><img src="img/rstudio.png" alt="RStudio img"></p>
 <h3 id="required">Required</h3>
-<p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)<br>
-<img src="https://amzn.to/2WoabjB" alt="R img"></p>
+<p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)</p>
+<p><img src="img/Rlogo.png" alt="R img"></p>
 <h2 id="r-tutorials">R tutorials</h2>
 <p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R script.</p>
 <h3 id="tutorial-1-an-introduction-to-r---part-1">Tutorial #1: An introduction to R - part 1</h3>
