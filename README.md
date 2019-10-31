@@ -4,7 +4,8 @@
 ---
 
 <h1 id="metropolitan-data-1---r-tutorials">Metropolitan Data 1 - R Tutorials</h1>
-<p>The <strong>Metropolitan Data 1 - R Tutorials</strong> materials and resources of the 2018/2019 Metropolitan Data 1 Course at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a> are listed here.</p>
+<p>In the <strong>Metropolitan Data I course</strong> at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a>, students are familiarised with techniques for acquiring, processing, analyzing, and representing a range of data including mobility data, geographical data, social data and consumption data.</p>
+<p>Specifically, for this course, five R tutorials were designed, and all the materials and resources for these tutorials are listed below.</p>
 <h2 id="table-of-contents----omit-in-toc---">Table of Contents <!-- omit in toc --></h2>
 <ul>
 <li><a href="#colophon">Colophon</a></li>
