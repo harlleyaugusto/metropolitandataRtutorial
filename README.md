@@ -48,7 +48,7 @@
 <li><strong>Built-in Functions</strong></li>
 <li><strong>Data types</strong>: vectors, factors, matrices and arrays, list and data frames</li>
 </ul>
-<p>[<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.pdf">pdf</a>], [latex files], [script]</p>
+<p>[<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.pdf">pdf</a>], [<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.zip">latex files</a>], [<a href="%5Bhttps://github.com/harlleyaugusto/metropolitandataRtutorial/tree/master/01.%20Tutorial_IntroRPart1/script%5D(https://github.com/harlleyaugusto/metropolitandataRtutorial/tree/master/01.%20Tutorial_IntroRPart1/script)">script</a>]</p>
 <h3 id="tutorial-2-an-introduction-to-r---part-2">Tutorial #2: An introduction to R - part 2</h3>
 <p>This tutorial convers:</p>
 <ul>
