@@ -79,7 +79,7 @@
 <li><strong>ggplot2</strong>: aesthetic mappings, facets, geometric objects, position adjustments</li>
 <li><strong>Exploratory data analysis</strong>: variation and covariation</li>
 </ul>
-<p>[<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.pdf">pdf</a>], [<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.zip">latex files</a>], [<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization/script">script</a>]</p>
+<p>[<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.pdf">pdf</a>], [<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.zip">latex files</a>], [<a href="04.%20Tutorial_Data_Visualization/script">script</a>]</p>
 <h3 id="tutorial-5-data-transformation">Tutorial #5: Data transformation</h3>
 <p>This tutorial convers:</p>
 <ul>
