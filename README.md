@@ -30,8 +30,8 @@
 <strong>Teaching assistants:</strong> <a href="https://homepages.dcc.ufmg.br/~harlley/">Harlley Lima</a> and <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/manel-slokom/">Manel Slokom</a></p>
 <h2 id="r-tutorial-course-book">R tutorial course book</h2>
 <p>Most of the R tutorials for the courser were based on <a href="https://r4ds.had.co.nz/"><strong>R for Data Science</strong></a> by Hadley Wickham &amp; Garrett Grolemund. In general, this book covers Data manipulation, visualization, and transformation - topics covered in these tutorials. The first two R tutorials presented here were based on the Foundations chapter of <a href="https://adv-r.hadley.nz/"><strong>Advanced R</strong></a> by Hadley Wickham.</p>
-<p><img src="https://amzn.to/2WoabjB" alt="Book I"><br>
-<img src="img/advancedR.png" alt="blah"></p>
+<p><img src="img/rfordatascience.png" alt="R for Data Science I"><br>
+<img src="img/advancedR.png" alt="Advanced R"></p>
 <h2 id="tools">Tools</h2>
 <h3 id="recommended">Recommended</h3>
 <p><a href="https://rstudio.com/">RStudio</a> is an IDE which provided tools designed to enhance the productivity with R, we strongly recommended development environment for this course. RStudio includes an editor (syntax highlighting, code completion, and smart indentation) from which the code can be easily executed, as well as a console and tools for debugging, plotting, and history. Best of all, RStudio is integrated with R help and documentation, making easy to solve most of the questions that you may have.<br>
