@@ -48,7 +48,7 @@
 <li><strong>Built-in Functions</strong></li>
 <li><strong>Data types</strong>: vectors, factors, matrices and arrays, list and data frames</li>
 </ul>
-<p>[<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.pdf">pdf</a>], [<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.zip">latex files</a>], <a href="https://github.com/harlleyaugusto/metropolitandataRtutorial/tree/master/01.%20Tutorial_IntroRPart1/script">[script]</a></p>
+<p>[<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.pdf">pdf</a>], [<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.zip">latex files</a>], <a href="01.%20Tutorial_IntroRPart1/script">[script]</a></p>
 <h3 id="tutorial-2-an-introduction-to-r---part-2">Tutorial #2: An introduction to R - part 2</h3>
 <p>This tutorial convers:</p>
 <ul>
@@ -62,7 +62,7 @@
 <li><strong>User-defined functions</strong>:  summary measures functions, defining a function, argument matching, the … argument</li>
 <li><strong>Loop functions</strong>: <em>lapply()</em>, <em>sapply()</em>, <em>apply()</em></li>
 </ul>
-<p>[pdf], [latex files], [script]</p>
+<p>[<a href="02.%20Tutorial_IntroRPart2/Tutorial_IntroRPart2.pdf">pdf</a>], [<a href="02.%20Tutorial_IntroRPart2/Tutorial_IntroRPart2.zip">latex files</a>], <a href="02.%20Tutorial_IntroRPart2/script">[script]</a></p>
 <h3 id="tutorial-3-data-manipulation">Tutorial #3: Data manipulation</h3>
 <p>This tutorial convers:</p>
 <ul>
