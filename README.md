@@ -35,7 +35,7 @@
 <h3 id="recommended">Recommended</h3>
 <p><a href="https://rstudio.com/">RStudio</a> is an IDE which provided tools designed to enhance the productivity with R, we strongly recommended development environment for this course. RStudio includes an editor (syntax highlighting, code completion, and smart indentation) from which the code can be easily executed, as well as a console and tools for debugging, plotting, and history. Best of all, RStudio is integrated with R help and documentation, making easy to solve most of the questions that you may have.<br>
 <strong>Open-source</strong> and commercial RStudio editions can be downloaded <a href="https://rstudio.com/products/rstudio/">here</a>, it is also available for Windows, Mac, and Linux.<br>
-<img src="https://amzn.to/2WoabjB" alt="RStudio img"></p>
+<img src="img/rstudio.png" alt="RStudio img"></p>
 <h3 id="required">Required</h3>
 <p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)<br>
 <img src="https://amzn.to/2WoabjB" alt="R img"></p>
