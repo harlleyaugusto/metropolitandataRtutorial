@@ -1,4 +1,8 @@
 ---
+
+
+---
+
 <h1 id="metropolitan-data-1---r-tutorials">Metropolitan Data 1 - R Tutorials</h1>
 <p>In the <strong>Metropolitan Data I course</strong> at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a>, students are familiarised with techniques for acquiring, processing, analyzing, and representing a range of data including mobility data, geographical data, social data and consumption data.</p>
 <p>Specifically, for this course, five R tutorials were designed, and all the materials and resources for these tutorials are listed below.</p>
@@ -39,7 +43,7 @@
 <h2 id="r-tutorials">R tutorials</h2>
 <p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R script.</p>
 <h3 id="tutorial-1-an-introduction-to-r---part-1">Tutorial #1: An introduction to R - part 1</h3>
-<p>This tutorial convers:</p>
+<p>This tutorial covers:</p>
 <ul>
 <li><strong>Coding basics</strong>: console, expression, operators, variables, relational operators, logical operators,  basic data types</li>
 <li><strong>Built-in Functions</strong></li>
@@ -47,7 +51,7 @@
 </ul>
 <p>[<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.pdf">pdf</a>], [<a href="01.%20Tutorial_IntroRPart1/Tutorial_IntroRPart1.zip">latex files</a>], [<a href="01.%20Tutorial_IntroRPart1/script">script</a>]</p>
 <h3 id="tutorial-2-an-introduction-to-r---part-2">Tutorial #2: An introduction to R - part 2</h3>
-<p>This tutorial convers:</p>
+<p>This tutorial covers:</p>
 <ul>
 <li><strong>R Script and RStudio</strong>: code completion, exectuing code, keyboard shortcuts</li>
 <li><strong>Control structures</strong>:
@@ -61,7 +65,7 @@
 </ul>
 <p>[<a href="02.%20Tutorial_IntroRPart2/Tutorial_IntroRPart2.pdf">pdf</a>], [<a href="02.%20Tutorial_IntroRPart2/Tutorial_IntroRPart2.zip">latex files</a>], [<a href="02.%20Tutorial_IntroRPart2/script">script</a>]</p>
 <h3 id="tutorial-3-data-manipulation">Tutorial #3: Data manipulation</h3>
-<p>This tutorial convers:</p>
+<p>This tutorial covers:</p>
 <ul>
 <li><strong>Packages</strong></li>
 <li><strong>Tibbles</strong></li>
@@ -71,14 +75,14 @@
 </ul>
 <p>[<a href="03.%20Tutorial_Data/Tutorial_Data_R.pdf">pdf</a>], [<a href="03.%20Tutorial_Data/Tutorial_Data_R.zip">latex files</a>], [<a href="03.%20Tutorial_Data/script">script</a>]</p>
 <h3 id="tutorial-4-data-visualization">Tutorial #4: Data Visualization</h3>
-<p>This tutorial convers:</p>
+<p>This tutorial covers:</p>
 <ul>
 <li><strong>ggplot2</strong>: aesthetic mappings, facets, geometric objects, position adjustments</li>
 <li><strong>Exploratory data analysis</strong>: variation and covariation</li>
 </ul>
 <p>[<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.pdf">pdf</a>], [<a href="04.%20Tutorial_Data_Visualization/Tutorial_Data_Visualization.zip">latex files</a>], [<a href="04.%20Tutorial_Data_Visualization/script">script</a>]</p>
 <h3 id="tutorial-5-data-transformation">Tutorial #5: Data transformation</h3>
-<p>This tutorial convers:</p>
+<p>This tutorial covers:</p>
 <ul>
 <li><strong>Primary functions</strong>: <em>select(), select(), group_by(), summarise(), arrange(), mutate(), mutate()</em></li>
 <li><strong>RStudio project</strong>: RStudio project creation and working directory</li>
