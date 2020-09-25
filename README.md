@@ -4,8 +4,8 @@
 ---
 
 <h1 id="metropolitan-data-1---r-tutorials">Metropolitan Data 1 - R Tutorials</h1>
-<p>In the <strong>Metropolitan Data I course</strong> at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a>, students are familiarised with techniques for acquiring, processing, analyzing, and representing a range of data including mobility data, geographical data, social data and consumption data.</p>
-<p>Specifically, for this course, five R tutorials were designed, and all the materials and resources for these tutorials are listed below.</p>
+<p>In the <strong>Metropolitan Data I course</strong> at <a href="https://www.ams-institute.org/">Amsterdam Institute for Advanced Metropolitan Solutions</a>, the students were familiarised with techniques for acquiring, processing, analyzing, and representing a range of data including mobility data, geographical data, social data and consumption data.</p>
+<p>For this course, five R tutorials were designed, and all the materials and resources are available below.</p>
 <h2 id="table-of-contents----omit-in-toc---">Table of Contents <!-- omit in toc --></h2>
 <ul>
 <li><a href="#colophon">Colophon</a></li>
@@ -30,18 +30,18 @@
 <p><strong>Course coordinator:</strong> <a href="https://julian-urbano.info/">Dr. Julián Urbano</a><br>
 <strong>Teaching assistants:</strong> <a href="https://homepages.dcc.ufmg.br/~harlley/">Harlley Lima</a> and <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/manel-slokom/">Manel Slokom</a></p>
 <h2 id="r-tutorial-course-book">R tutorial course book</h2>
-<p>Most of the R tutorials for the courser were based on <a href="https://r4ds.had.co.nz/"><strong>R for Data Science</strong></a> by Hadley Wickham &amp; Garrett Grolemund. In general, this book covers Data manipulation, visualization, and transformation - topics covered in these tutorials. The first two R tutorials presented here were based on the Foundations chapter of <a href="https://adv-r.hadley.nz/"><strong>Advanced R</strong></a> by Hadley Wickham.</p>
+<p>Most of the R tutorials of this course were based on <a href="https://r4ds.had.co.nz/"><strong>R for Data Science</strong></a> by Hadley Wickham &amp; Garrett Grolemund. This book covers data manipulation, visualization, and transformation - topics also covered in our tutorials. The first two tutorials presented here were based on the Foundations chapter of <a href="https://adv-r.hadley.nz/"><strong>Advanced R</strong></a> by Hadley Wickham.</p>
 <p><img src="img/rfordatascience.png" alt="R for Data Science I"> <img src="img/advancedR.png" alt="Advanced R"></p>
 <h2 id="tools">Tools</h2>
 <h3 id="recommended">Recommended</h3>
-<p><a href="https://rstudio.com/">RStudio</a> is an IDE which provided tools designed to enhance the productivity with R, we strongly recommended development environment for this course. RStudio includes an editor (syntax highlighting, code completion, and smart indentation) from which the code can be easily executed, as well as a console and tools for debugging, plotting, and history. Best of all, RStudio is integrated with R help and documentation, making easy to solve most of the questions that you may have.<br>
+<p><a href="https://rstudio.com/">RStudio</a> is an IDE which provided tools designed to enhance the productivity with R, we strongly recommended this development environment for the course. RStudio includes an editor (syntax highlighting, code completion, and smart indentation) from which the code can be easily executed, as well as a console and tools for debugging, plotting, and history. RStudio is integrated with R help and documentation, making easy to solve most of the questions that you may have.<br>
 <strong>Open-source</strong> and commercial RStudio editions can be downloaded <a href="https://rstudio.com/products/rstudio/">here</a> (available for Windows, Mac, and Linux).</p>
 <p><img src="img/rstudio.png" alt="RStudio img"></p>
 <h3 id="required">Required</h3>
-<p>Of course, you need to install R. If you choose to install RStudio, then you don’t need to worry to install R since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)</p>
+<p>You also need to install R. If you choose to install RStudio, then you don’t need to worry about R installation since it is already installed with RStudio. Otherwise, you need to install R, coding with an editor more convenient for you, and then run your code from the command line.  Please, use RStudio to have a nice R experience :)</p>
 <p><img src="img/Rlogo.png" alt="R img"></p>
 <h2 id="r-tutorials">R tutorials</h2>
-<p>For all tutorials are available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R script.</p>
+<p>For each tutorial is available the presentation pdf, pdf latex files (if want to improve the presentation go for it, and let me know :) ), and R file with code used during the tutorial.</p>
 <h3 id="tutorial-1-an-introduction-to-r---part-1">Tutorial #1: An introduction to R - part 1</h3>
 <p>This tutorial covers:</p>
 <ul>
